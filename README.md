@@ -11,6 +11,6 @@
   
 
 
-<img src="C:\\Users\\Volko\\OneDrive\\Рабочий стол\\Portfolio\\EB1A2916.jpg"/>
+<img src="C:\Users\volko\OneDrive\Рабочий стол\Portfolio\EB1A2916.jpg"/>
 
 
